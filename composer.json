@@ -1,0 +1,16 @@
+{
+    "name": "kolalexx/hexlet-php",
+    "description": "example",
+    "autoload": {
+        "psr-4": {
+            "Kolalexx\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksei Kolesnikov",
+            "email": "kolalexx@yandex.ru"
+        }
+    ],
+    "require": {}
+}
